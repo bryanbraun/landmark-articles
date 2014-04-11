@@ -1,13 +1,13 @@
 # Landmark Articles
 
-Since the day I picked up my first book on HTML five years ago, I've read thousands of online blog posts and articles about web development. Occasionally, maybe once or twice a year, I would read one so monumentally inspiring that I'd think, "I have to save this somewhere... I don't ever want to forget it."
+Since the day I picked up my first book on HTML five years ago, I've read thousands of online blog posts and articles about web development. Occasionally, maybe once or twice a year, I would read one so monumentally inspiring that I'd think, "**I have to save this somewhere... I don't ever want to forget it**."
 
 At first I saved them to a folder on my hard drive named "Landmark Articles." Later, I moved them to Evernote. But why keep them secret? If they're so valuable to me, then I should just make the list public so others can benefit from them as well.
 
 
 ## The List:
 
-**[See the Full-Page Version Here](http://bryanbraun.github.io/landmark-articles)**
+**[(See the Full-Page Version Here)](http://bryanbraun.github.io/landmark-articles)**
 
 * [How to Spread The Word About Your Code](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 * [Open Source (Almost) Everything](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)
@@ -32,7 +32,7 @@ I'll read everything submitted, but I'm not going to add articles willy-nilly. T
 
 ## Thanks
 
-Thanks to all the authors of these articles:
+Thanks to the authors of these articles:
 
 * Peter Cooper
 * Tom Preston-Werner
